@@ -1,0 +1,14 @@
+com\benia\backend\configuration\CorsConfig$1.class
+com\benia\backend\configuration\CorsConfig.class
+com\benia\backend\controller\ChatController.class
+com\benia\backend\dto\ChatRequest.class
+com\benia\backend\model\ChatMessage.class
+com\benia\backend\controller\ReplicateController.class
+com\benia\App.class
+com\benia\backend\controller\HomeController.class
+com\benia\backend\dto\MensagemDTO.class
+com\benia\BeniaApplication.class
+com\benia\backend\controller\ChatResponse.class
+com\benia\backend\service\ChatResponse.class
+com\benia\backend\repository\ChatMessageRepository.class
+com\benia\backend\service\ChatService.class

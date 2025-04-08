@@ -1,0 +1,11 @@
+C:\Users\skywalker\benia\src\main\java\com\benia\App.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\configuration\CorsConfig.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\controller\ChatController.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\controller\HomeController.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\controller\ReplicateController.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\dto\ChatRequest.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\dto\MensagemDTO.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\model\ChatMessage.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\repository\ChatMessageRepository.java
+C:\Users\skywalker\benia\src\main\java\com\benia\backend\service\ChatService.java
+C:\Users\skywalker\benia\src\main\java\com\benia\BeniaApplication.java
